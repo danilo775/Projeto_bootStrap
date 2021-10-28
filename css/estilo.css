@@ -1,0 +1,80 @@
+body{
+	margin: 0;
+}
+.topo{
+	background-color: gray;
+	height: 30px;
+}
+.topoint{
+	width: 100%;
+	max-width: 1040px;
+	height: 30px;
+	height: 30px;	
+	margin: auto;
+}
+.topoesq {
+	width: 50%;
+	height : 30px;
+	float:left;
+}
+.topodir{
+	width: 50%;
+	height:28px;
+	float:right;
+	text-align: right;
+}
+.topoesq ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.topoesq li{
+	height: 30px;
+	float: left;
+	line-height: 30px;
+	padding-left: 8px;
+	padding-right: 8px; 
+}
+.topoesq li a{
+	text-decoration: none;
+	color: white;
+}
+.topoesq li .cor{
+	color: blue;
+}
+.topodir img{
+float: right;
+padding-top: 1px;
+padding-right: 2px;
+}
+.topobuscar{
+	float: right;
+	height: 24px;
+}
+.topo2{
+	height: 95px;
+}
+.topoint2{
+	height: 95px;
+	width: 100%;
+	max-width: 1040px;
+	margin: auto;
+}
+.topoesq2{
+	width: 280px
+	height: 90px;
+}
+.topodir2{
+	width: 650px;
+	height: 80px;
+	background-color: red;
+	margin: auto;
+	float: right;
+	margin-top: 7px;
+}
+.logo{
+	float: left;
+	height: 90px;
+	width: 280px;
+	margin-top: 4px;
+}
